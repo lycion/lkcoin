@@ -1,0 +1,2 @@
+usr/local/bin/lkcoind usr/bin
+usr/local/bin/lkcoin-cli usr/bin
